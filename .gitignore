@@ -1,0 +1,51 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+# Android Studio
+.idea/
+*.iml
+.gradle/
+local.properties
+
+# Gradle
+/build/
+*/build/
+
+# Logs
+*.log
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Keystore files (⚠️ si tienes uno personalizado)
+*.jks
+
+# Crashlytics
+fabric.properties
+
+# NDK
+.externalNativeBuild/
+
+# Google Services (si usas Firebase)
+google-services.json
+
+# Jetpack Compose Preview cache
+*.pb
+
+# Misc
+.cxx/
